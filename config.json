@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build RESTful APIs using FastAPI, including endpoints, JSON handling, and input validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-10-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
